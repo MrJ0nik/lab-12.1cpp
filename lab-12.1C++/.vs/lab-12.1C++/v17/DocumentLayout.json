@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12,1 \u0421\u002B\u002B\\lab-12.1C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDC208A-070F-4360-A247-DF140AC5AF4A}|lab-12.1C\u002B\u002B.vcxproj|C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12,1 \u0421\u002B\u002B\\lab-12.1C\u002B\u002B\\lab-12.1C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BDC208A-070F-4360-A247-DF140AC5AF4A}|lab-12.1C\u002B\u002B.vcxproj|solutionrelative:lab-12.1C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9272EE9E-14B1-4E5A-88EF-656012F1179B}|..\\UnitTest1\\UnitTest1.vcxproj|C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12,1 \u0421\u002B\u002B\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 40,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12,1 \u0421\u002B\u002B\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12,1 \u0421\u002B\u002B\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T22:23:48.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab-12.1C\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12,1 \u0421\u002B\u002B\\lab-12.1C\u002B\u002B\\lab-12.1C\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "lab-12.1C\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12,1 \u0421\u002B\u002B\\lab-12.1C\u002B\u002B\\lab-12.1C\u002B\u002B.cpp",
+              "RelativeToolTip": "lab-12.1C\u002B\u002B.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T21:33:44.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
